@@ -1,0 +1,153 @@
+"*":
+  "advanced-open-file":
+    createDirectories: true
+  "atom-beautify":
+    general:
+      _analyticsUserId: "fb358cd2-ed25-4aa4-b95b-ff92612670b1"
+  "atom-clock":
+    dateFormat: "YY.MM.DD.H.mm"
+  "atom-material-ui":
+    colors:
+      abaseColor: "#3b957c"
+    tabs:
+      compactTabs: true
+    treeView:
+      compactList: true
+    ui: {}
+  core:
+    closeDeletedFileTabs: true
+    customFileTypes:
+      "source.scss": [
+        "pcss"
+      ]
+    disabledPackages: [
+      "autoflow"
+      "background-tips"
+      "package-generator"
+      "welcome"
+    ]
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "*.sublime-workspace"
+      "node_modules"
+      "cgi-bin"
+      ".imdone"
+    ]
+    projectHome: "/Users/udy/dev"
+    telemetryConsent: "limited"
+    themes: [
+      "atom-material-ui"
+      "base16-ocean-dark-spacegray"
+    ]
+    warnOnLargeFileLimit: 10
+  editor:
+    backUpBeforeSaving: true
+    fontFamily: "FiraCode-Retina"
+    fontSize: 12
+    invisibles:
+      cr: " "
+      eol: " "
+      space: " "
+      tab: "-"
+    preferredLineLength: 100
+    scrollPastEnd: true
+    showIndentGuide: true
+    undoGroupingInterval: 225
+  "exception-reporting":
+    userId: "ea7daad0-acf7-4c8f-8bc2-e65040bd35b1"
+  "file-icons": {}
+  "git-diff":
+    showIconsInEditorGutter: true
+  hyperclick:
+    darwinTriggerKeys: "altKey"
+  "js-hyperclick":
+    extensions: [
+      ".js"
+      ".json"
+      ".node"
+      ".vue"
+    ]
+    usePendingPanes: true
+  "markdown-pdf":
+    format: "Legal"
+  pigments:
+    dismissableReloadNotifications: false
+    extendAutocompleteToVariables: true
+    extendedSearchNames: [
+      "**/_colors.scss"
+    ]
+    groupPaletteColors: "by file"
+    markerType: "dot"
+  "platformio-ide-terminal":
+    ansiColors:
+      normal:
+        blue: "#5e8bcd"
+        cyan: "#5bcdce"
+        green: "#77ce58"
+        magenta: "#69b8cd"
+        red: "#cd5156"
+        yellow: "#d1963d"
+      zBright:
+        brightBlue: "#5a8dff"
+        brightCyan: "#9ed9eb"
+        brightGreen: "#8ee16d"
+        brightMagenta: "#7fc0e4"
+        brightRed: "#ef6b6d"
+        brightWhite: "#fefdff"
+        brightYellow: "#f9c741"
+    style:
+      fontFamily: "FiraCode-Retina"
+      fontSize: "12"
+    toggles:
+      autoClose: true
+      cursorBlink: false
+  "project-manager":
+    sortBy: "last modified"
+  "split-diff":
+    diffWords: true
+    ignoreWhitespace: true
+    leftEditorColor: "red"
+    rightEditorColor: "green"
+    scrollSyncType: "Vertical + Horizontal"
+  "terminal-plus":
+    ansiColors:
+      normal:
+        blue: "#5e8bcd"
+        cyan: "#5bcdce"
+        green: "#77ce58"
+        magenta: "#69b8cd"
+        red: "#cd5156"
+        yellow: "#d1963d"
+      zBright:
+        brightBlue: "#5a8dff"
+        brightCyan: "#9ed9eb"
+        brightGreen: "#8ee16d"
+        brightMagenta: "#7fc0e4"
+        brightRed: "#ef6b6d"
+        brightWhite: "#fefdff"
+        brightYellow: "#f9c741"
+    core:
+      defaultView: "Panel"
+      statusBar: "Collapsed"
+    style:
+      defaultPanelHeight: "225px"
+      fontFamily: "FiraCode-Retina"
+      fontSize: "12"
+    toggles:
+      autoClose: true
+  "tree-view":
+    alwaysOpenExisting: true
+    hideIgnoredNames: true
+    hideVcsIgnoredFiles: true
+  "tree-view-sort":
+    type: 2
+  welcome:
+    showOnStartup: false
+".sass.source":
+  editor:
+    autoIndentOnPaste: true
